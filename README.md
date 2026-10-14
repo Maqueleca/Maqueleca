@@ -1,6 +1,6 @@
 # 💻 Olá, eu sou [Maqueleca João]! 
 
-🎓 Atualmente, estou no 4º ano de Engenharia Informática.  
+🎓 Atualmente, estou no 5º ano de Engenharia Informática.  
 👨‍💻 Programador de software com experiência em desenvolvimento web e mobile.  
 🚀 Apaixonado por tecnologia, empreendedorismo e inovação.  
 🌱 Sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.  
